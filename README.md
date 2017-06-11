@@ -33,8 +33,8 @@ In this case you have to install [cwRsync](http://www.rsync.net/resources/howto/
 ### Installation
 
 ```
-git clone https://github.com/giabar/vagrant-jupyter.git
-cd vagrant-jupyter
+git clone https://github.com/kadnan/vagrant-spark2.git
+cd vagrant-spark2
 vagrant up
 ```
 
